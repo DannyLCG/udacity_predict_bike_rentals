@@ -1,0 +1,2 @@
+## Udacity Project: Predict Bike Sharing Demand
+Github repo containing the files for my personal take on the Bike Sharing Demand prediction using original data from Kaggle. This repo contains the code that can be visualize in both notebook and webpage format. Required data and final report of my personal findings is provided. An environment file is also provided in order to recreate the conda environment. 
